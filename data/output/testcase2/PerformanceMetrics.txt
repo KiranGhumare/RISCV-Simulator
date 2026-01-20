@@ -1,0 +1,11 @@
+Performance of Single Stage:
+#Cycles -> 36
+#Instructions -> 35
+CPI -> 1.0285714285714285
+IPC -> 0.9722222222222222
+
+Performance of Five Stage:
+#Cycles -> 50
+#Instructions -> 35
+CPI -> 1.4285714285714286
+IPC -> 0.7
